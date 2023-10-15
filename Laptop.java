@@ -2,6 +2,15 @@ package dhanu1;
 
 public class Laptop {
 	public static void main(String[] args) {
+
+		System.out.println("helloWorld");
+		System.out.println("helloWorld");
+		System.out.println("helloWorld");
+		System.out.println("helloWorld");
+		System.out.println("helloWorld");
+		System.out.println("helloWorld");
+		System.out.println("helloWorld");		
+		
 		Dayy1of7 l = new Dayy1of7();
 		l.name = "Laptop";
 		l.model = "i5";
