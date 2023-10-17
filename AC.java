@@ -2,6 +2,17 @@ package dhanu1;
 
 public class AC {
 public static void main(String[]args){
+	
+	
+	System.out.println("helloWorld");
+	System.out.println("helloWorld");
+	System.out.println("helloWorld");
+	System.out.println("helloWorld");
+	System.out.println("helloWorld");
+	System.out.println("helloWorld");
+	System.out.println("helloWorld");
+	System.out.println("helloWorld");
+	
 	Dayy1of6 a = new Dayy1of6();
 	         a.brand = "Hitachi";
 	         a.price = 50000;
